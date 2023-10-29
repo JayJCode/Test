@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
    // printf() displays the string inside quotation
-   printf("Hello, World!");
-   printf("To jest kolejna linia");
+   printf("Hello, World!\n");
+   printf("To jest kolejna linia\n");
    return 0;
 }
