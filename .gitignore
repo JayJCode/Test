@@ -1,1 +1,33 @@
-a.out
+# Pliki wygenerowane przez Python
+__pycache__/
+
+# Katalogi wirtualnego środowiska
+venv/
+env/
+
+# Pliki środowiska
+.env
+
+# Pliki kompilowane .pyc
+*.pyc
+*.pyo
+*.pyd
+
+# Katalogi tworzone przez narzędzia IDE i edytory
+.idea/
+.vscode/
+
+# Katalogi generowane przez narzędzia do budowy
+build/
+dist/
+__pyinstaller/
+
+# Logi i pliki tymczasowe
+*.log
+*.swp
+*.tmp
+*.bak
+*.cache
+
+# Plik zależności
+requirements.txt
